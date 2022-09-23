@@ -45,6 +45,7 @@
     height: 500px;
     width: 500px;
     background-image: url(user.png);
+    background-repeat: no-repeat;
     float: left;
 }
 
