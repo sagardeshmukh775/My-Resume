@@ -44,7 +44,7 @@
 #myimage {
     height: 500px;
     width: 500px;
-    background-image: url(../images/bg/My.png);
+    background-image: url(../My.png);
     float: left;
 }
 
